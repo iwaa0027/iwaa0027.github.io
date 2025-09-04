@@ -1,0 +1,16 @@
+h3 {
+    color: blue;
+    font-size: 20px;
+}
+h1 {color: crimson;
+    font-size 40px;
+}
+h2 {color:green;
+font-size 10px;
+}}
+
+<div style="display: flex; gap: 10px;">
+  <img src="phchurch.png" alt="image of church" width="150" height="250">                
+  <img src="phlightbeach.png" alt="image of the sun with the beach" width="150" height="250">
+  <img src="phsandlight.png" alt="image of light reflection on wet sand" width="250" height="200">                   
+</div>
